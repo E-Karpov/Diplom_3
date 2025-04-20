@@ -1,0 +1,5 @@
+selenium~=4.31.0
+allure-python-commons~=2.13.2
+pytest~=7.4.0
+requests~=2.32.3
+Faker~=37.1.0
